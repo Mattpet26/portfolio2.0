@@ -1318,7 +1318,6 @@ footer, header, hgroup, menu, nav, section {
 		}
 
 		@media screen and (max-width: 736px) {
-
 			.row {
 				display: flex;
 				flex-wrap: wrap;
