@@ -698,7 +698,7 @@ display: none;
     -ms-transition: -ms-transform 0.5s ease;
     transition: transform 0.5s ease;
     -webkit-overflow-scrolling: touch;
-    display: block;
+    display: none;
     height: 100%;
     left: 0;
     overflow-y: auto;
@@ -892,8 +892,11 @@ display: none;
 }
 
 
-
-
+@media screen and (max-width: 960px) {
+  #header{
+    
+  }
+}
 
 
 
