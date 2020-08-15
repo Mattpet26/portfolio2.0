@@ -79,7 +79,7 @@ footer, header, hgroup, menu, nav, section {
 		}
 
 		@media screen and (max-width: 960px) {
-
+			
 			.container {
 				width: 100%;
 			}
